@@ -73,7 +73,7 @@ Feel free to fork and improve this repository. Contributions are always welcome!
 
 ## 👨‍💻 Author
 
-**Aftaab**
+**aftb777**
 
 ---
 
