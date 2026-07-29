@@ -76,5 +76,14 @@ Feel free to fork and improve this repository. Contributions are always welcome!
 **aftb777**
 
 ---
+## 🚨 Disclaimer
+
+> **Educational Use Only**
+>
+> The datasets in this repository are **fictional and created solely for learning purposes**.
+> They are **not based on real-world businesses, customers, or production systems**.
+>
+> Feel free to use them for **SQL practice, DBMS projects, data analysis, and experimentation**.
+---
 
 ⭐ If you like this repo, don’t forget to star it!
