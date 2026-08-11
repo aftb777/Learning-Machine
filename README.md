@@ -1,5 +1,3 @@
-# Under Construction (Good things take time.)
-
 # Learning-Machine 🚀
 
 A complete collection of **Machine Learning algorithms implemented from scratch** for learning and experimentation.
